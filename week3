@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name ="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Week 3</title>
+</head>
+<body>
+    <header id="my-header">
+        <h1>Latvian Cultural Heritage Collection</h1>
+    <p>Welcome to Latvian Cultural Heritage Collection</p>
+
+    <nav>
+
+        <a href="index.html">Home</a>
+        <a href="week1.html">Week 1</a>
+        <a href="#my-footer">Footer</a>
+ </nav>
+    </header>
+    <main>
+           <h2> Main content for Week 3 Live Demo </h2>
+        <section>
+            <h3>Good use for section tag</h3>
+            <p>This is a good example of using the section tag to group related content.
+            </p>
+        </section>
+        <hr>
+        <section>
+            <article>
+                <h3>Another Section</h3>
+                <p>This is another section within the main content.</p>
+            </article>
+        </section>
+        </mainhr>
+    </main>
+
+    <footer id="my-footer">
+        <p>&copy; Copyright 2026 Latvian Cultural Heritage Collection</p>
+        <a href="https://rtu.lv/en" target="_blank">Riga Technical University</a>
+        <a href ="#my-header">Back to top</a>
+    </footer>
+</body>
+</html>
